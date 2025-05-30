@@ -1,0 +1,10 @@
+name: ble-can-tracker
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - streamlit
